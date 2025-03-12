@@ -1,0 +1,16 @@
+# Build artifacts
+*.obj
+*.log
+*.recipe
+*.ilk
+*.tlog
+*.txt
+*.pdb
+*.idb
+
+# Debug directories
+OpenGL/Debug/
+OpenGL/x64/Debug/
+
+# Visual Studio temporary files
+.vs/
